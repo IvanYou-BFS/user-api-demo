@@ -10,7 +10,7 @@ class UserApiDemoApplicationTests {
     void contextLoads() {
     }
     @Test
-    void sdet_test() {
+    void sdet_test_1() {
     }
 
 }
